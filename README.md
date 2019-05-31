@@ -1,6 +1,4 @@
-# All-Cricket-Player-Total-Runs-in-ODI
-
-# Cricket Player Cumulative Runs Year Wise
+# All-Cricket-Player-Total-Runs-in-ODI(Cumulative)
 
 ## Web Scraping
 In this repository , extracted the details of each player who has played an ODI innings and the runs scored starting from his 
