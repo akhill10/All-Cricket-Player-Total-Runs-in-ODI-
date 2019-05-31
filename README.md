@@ -9,7 +9,7 @@ and **performance by year** is extracted by going into his profile in the same w
 * [Python File](https://github.com/pawanakhil/All-Cricket-Player-Total-Runs-in-ODI-/blob/master/WebScrapy.py)
 * [Ipython Notebook](https://github.com/pawanakhil/All-Cricket-Player-Total-Runs-in-ODI-/blob/master/WebScrapy-Ipython.ipynb)
 * [CSV File](https://github.com/pawanakhil/All-Cricket-Player-Total-Runs-in-ODI-/blob/master/TotalRunsByPlayersinODI.csv)
-* [Player Comparision]
+* Player Comparision
 
 ## Analysis of Players Year Wise
 #### Virat Kohli vs AB De Villers
